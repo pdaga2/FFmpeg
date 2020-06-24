@@ -1721,6 +1721,7 @@ EXTERNAL_LIBRARY_GPL_LIST="
     libdavs2
     librubberband
     libvidstab
+    libvmaf
     libx264
     libx265
     libxavs
@@ -1741,7 +1742,6 @@ EXTERNAL_LIBRARY_VERSION3_LIST="
     liblensfun
     libopencore_amrnb
     libopencore_amrwb
-    libvmaf
     libvo_amrwbenc
     mbedtls
     rkmpp
